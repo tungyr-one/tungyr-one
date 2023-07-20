@@ -22,7 +22,7 @@ Currently, I am developing dating site with the ability to get assistance from r
 
 ### 👨‍💻 Past Projects 
 ---
-- [Dating site]([tungyr-dating.fly.dev](https://github.com/tungyr-one/DatingApp) "Dating site")
+- [Dating site](https://github.com/tungyr-one/DatingApp "Dating site")
 - [Computers shop project](https://github.com/tungyr-one/comp-shop "Computers shop")
 - [Movies rent service project](https://github.com/tungyr-one/MovieRentApp "Movies rent service project")
 - [Ships draft calculation programm](https://github.com/tungyr-one/ships-draft-survey-programm "Ships draft calculation programm")
